@@ -1,0 +1,16 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "RainbowDropsInspired Color Scheme",
+			"details": "https://github.com/AhanM/RainbowDropsInspired-color-scheme",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			],
+			"labels": ["color scheme"]
+		}
+	]
+}
