@@ -134,24 +134,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Class name</string>
+			<string>Inherited class</string>
 			<key>scope</key>
-			<string>entity.name.class</string>
+			<string>entity.other.inherited-class, meta.class.inheritance</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>italic underline</string>
 				<key>foreground</key>
 				<string>#247BB5</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Inherited class</string>
+			<string>Class name</string>
 			<key>scope</key>
-			<string>entity.other.inherited-class</string>
+			<string>entity.name.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic underline</string>
 				<key>foreground</key>
 				<string>#247BB5</string>
 			</dict>
@@ -165,6 +165,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#5CCC5A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function Call</string>
+			<key>scope</key>
+			<string>meta.function-call</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#19B6D8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -216,7 +227,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FEB039</string>
+				<string>#7CB3FE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -242,7 +253,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#FEB039</string>
+				<string>#F92672</string>
 			</dict>
 		</dict>
 		<dict>
@@ -284,17 +295,6 @@
 				<string>#AE81FF</string>
 				<key>foreground</key>
 				<string>#F8F8F0</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Function Call</string>
-			<key>scope</key>
-			<string>meta.function-call</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#19B6D8</string>
 			</dict>
 		</dict>
 		<dict>
