@@ -5,7 +5,7 @@ The color schemes are still in **testing phase**; however, the package is now ou
 ## Original RainbowDrops Comparison
 Although the color scheme hardly looks like original, it certainly stands out in it's own right and I really feel like this scheme will sit well with the people that loved RainbowDrops. I certainly faced a challenge since Sublime Text scopes are hardly as detailed as those provided by an IDE like Eclipse. That being said it's interesting to see how my versions match up against the Original.
 #### RainbowDrops Original (Java)
-![RainbowDrops](http://i.imgur.com/TZ2bQHQ.png = 30x10)
+![RainbowDrops](http://i.imgur.com/TZ2bQHQ.png)
 #### RainbowDrops Alternative (Python)
 ![RainbowDropsAlt](http://i.imgur.com/PbiE4AO.png)
 #### RainbowDrops Inspired (Python)
